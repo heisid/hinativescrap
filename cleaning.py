@@ -12,7 +12,7 @@ output_file = sys.argv[2]
 
 with open(input_file, "r") as fin, open(output_file, "w") as fout:
     for line in fin:
-        if line == ",\n":
+        if line == ",,\n":
             pass
         else:
             fout.write(line)
