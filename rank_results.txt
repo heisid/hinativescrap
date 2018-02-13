@@ -1,0 +1,132 @@
+
+        Popularity Results
+        ==================
+        
+
+Native Languages
+
+English (US)                       8483
+Russian                            6596
+Arabic                             6318
+Polish                             3764
+Portuguese (Brazil)                3509
+Spanish (Spain)                    3372
+Simplified Chinese (China)         3276
+Traditional Chinese (Taiwan)       2339
+Spanish (Mexico)                   2265
+Japanese                           2007
+English (UK)                       1544
+Vietnamese                         1432
+Portuguese (Portugal)              1251
+Korean                             1045
+German                              967
+Spanish (Colombia)                  827
+Traditional Chinese (Hong Kong)     718
+French (France)                     709
+Tagalog                             612
+Ukrainian                           587
+Turkish                             490
+Spanish (Chile)                     455
+Indonesian                          324
+Italian                             273
+Spanish (Venezuela)                 211
+Kazakh                              186
+Malay                               129
+Hindi                               128
+Thai                                128
+Persian                             119
+Norwegian (nynorsk)                  12
+Galician                             12
+Guarani                              12
+Basque                               11
+Slovenian                             9
+Tajik                                 8
+Pashto                                7
+Latin                                 7
+Kiswahili                             7
+Hawaiian                              7
+Macedonian                            6
+Gujarati                              6
+Khmer                                 6
+Marathi                               6
+Laotian                               5
+Ainu                                  5
+Irish                                 5
+Welsh                                 4
+Quechua                               4
+Aymara                                3
+Tibet                                 3
+Zulu                                  2
+Syriac                                2
+Sanskrit                              2
+Faroese                               1
+Frisian                               1
+Kannada                               1
+Cherokee                              1
+Esperanto                             1
+Icelandic                             1
+dtype: int64
+
+Languages of Interests
+
+English (US)                       28619
+Japanese                           11771
+Korean                              9996
+English (UK)                        6457
+French (France)                     4642
+German                              3781
+Spanish (Spain)                     3076
+Italian                             1871
+Russian                             1833
+Simplified Chinese (China)          1631
+Arabic                               857
+Turkish                              696
+Norwegian (bokmal)                   639
+Spanish (Mexico)                     615
+Portuguese (Brazil)                  520
+Traditional Chinese (Hong Kong)      488
+Norwegian (nynorsk)                  397
+Vietnamese                           375
+French (Canada)                      367
+Traditional Chinese (Taiwan)         366
+Polish                               337
+Thai                                 329
+Swedish                              305
+Dutch                                296
+Portuguese (Portugal)                254
+Latin                                249
+Tagalog                              211
+Greek                                182
+Czech                                173
+Hebrew                               164 
+Zulu                                  12
+Latvian                               11
+Aymara                                11
+Uzbek                                 11
+Haitian Creole                        11
+Azeri                                  9
+Tibet                                  9
+Macedonian                             9
+Slovenian                              8
+Basque                                 8
+Laotian                                7
+Faroese                                7
+Frisian                                7
+Ainu                                   6
+Guarani                                6
+Somali                                 6
+Syriac                                 4
+Northern Sami                          4
+Tajik                                  4
+Pashto                                 4
+Slavic                                 4
+Xhosa                                  3
+Telugu                                 3
+Gujarati                               3
+Tongan                                 3
+Limburgish                             2
+Romansh                                2
+Malagasy                               2
+Maltese                                2
+Marathi                                1
+dtype: int64
