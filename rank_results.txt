@@ -1,132 +1,224 @@
+Popularity Results
+==================
 
-        Popularity Results
-        ==================
-        
 
 Native Languages
+===================
 
-English (US)                       8483
-Russian                            6596
-Arabic                             6318
-Polish                             3764
-Portuguese (Brazil)                3509
-Spanish (Spain)                    3372
-Simplified Chinese (China)         3276
-Traditional Chinese (Taiwan)       2339
-Spanish (Mexico)                   2265
-Japanese                           2007
-English (UK)                       1544
-Vietnamese                         1432
-Portuguese (Portugal)              1251
-Korean                             1045
-German                              967
-Spanish (Colombia)                  827
-Traditional Chinese (Hong Kong)     718
-French (France)                     709
-Tagalog                             612
-Ukrainian                           587
-Turkish                             490
-Spanish (Chile)                     455
-Indonesian                          324
-Italian                             273
-Spanish (Venezuela)                 211
-Kazakh                              186
-Malay                               129
-Hindi                               128
-Thai                                128
-Persian                             119
-Norwegian (nynorsk)                  12
-Galician                             12
-Guarani                              12
-Basque                               11
-Slovenian                             9
-Tajik                                 8
-Pashto                                7
-Latin                                 7
-Kiswahili                             7
-Hawaiian                              7
-Macedonian                            6
-Gujarati                              6
-Khmer                                 6
-Marathi                               6
-Laotian                               5
-Ainu                                  5
-Irish                                 5
-Welsh                                 4
-Quechua                               4
-Aymara                                3
-Tibet                                 3
-Zulu                                  2
-Syriac                                2
-Sanskrit                              2
-Faroese                               1
-Frisian                               1
-Kannada                               1
-Cherokee                              1
-Esperanto                             1
-Icelandic                             1
-dtype: int64
+English (US)                      8483 17.320%
+Russian                           6596 13.467%
+Arabic                            6318 12.899%
+Polish                            3764  7.685%
+Portuguese (Brazil)               3509  7.164%
+Spanish (Spain)                   3372  6.885%
+Simplified Chinese (China)        3276  6.689%
+Traditional Chinese (Taiwan)      2339  4.776%
+Spanish (Mexico)                  2265  4.624%
+Japanese                          2007  4.098%
+English (UK)                      1544  3.152%
+Vietnamese                        1432  2.924%
+Portuguese (Portugal)             1251  2.554%
+Korean                            1045  2.134%
+German                             967  1.974%
+Spanish (Colombia)                 827  1.688%
+Traditional Chinese (Hong Kong)    718  1.466%
+French (France)                    709  1.448%
+Tagalog                            612  1.250%
+Ukrainian                          587  1.198%
+Turkish                            490  1.000%
+Spanish (Chile)                    455  0.929%
+Indonesian                         324  0.662%
+Italian                            273  0.557%
+Spanish (Venezuela)                211  0.431%
+Kazakh                             186  0.380%
+Malay                              129  0.263%
+Thai                               128  0.261%
+Hindi                              128  0.261%
+Persian                            119  0.243%
+Swedish                            101  0.206%
+Romanian                            99  0.202%
+Dutch                               94  0.192%
+Belarusian                          79  0.161%
+Hungarian                           75  0.153%
+Norwegian (bokmal)                  73  0.149%
+French (Canada)                     64  0.131%
+Catalan                             62  0.127%
+Armenian                            55  0.112%
+Urdu                                54  0.110%
+Greek                               50  0.102%
+Finnish                             48  0.098%
+Azerbaijani                         48  0.098%
+Danish                              46  0.094%
+Hebrew                              45  0.092%
+Czech                               44  0.090%
+Kurdish                             43  0.088%
+Serbian                             42  0.086%
+Lithuanian                          41  0.084%
+Bulgarian                           38  0.078%
+Uzbek                               36  0.074%
+Slovak                              31  0.063%
+Georgian                            29  0.059%
+Latvian                             27  0.055%
+Albanian                            25  0.051%
+Croatian                            23  0.047%
+Bengali                             22  0.045%
+Somali                              21  0.043%
+Javanese                            21  0.043%
+Dutch (Belgium)                     21  0.043%
+Mongolian                           21  0.043%
+Bosnian                             18  0.037%
+Nepali                              18  0.037%
+Tatar                               18  0.037%
+Afrikaans                           17  0.035%
+Telugu                              17  0.035%
+Tamil                               16  0.033%
+Azeri                               16  0.033%
+Malayalam                           16  0.033%
+Punjabi                             14  0.029%
+Estonian                            13  0.027%
+Guarani                             12  0.025%
+Galician                            12  0.025%
+Norwegian (nynorsk)                 12  0.025%
+Basque                              11  0.022%
+Slovenian                            9  0.018%
+Tajik                                8  0.016%
+Latin                                7  0.014%
+Pashto                               7  0.014%
+Hawaiian                             7  0.014%
+Kiswahili                            7  0.014%
+Marathi                              6  0.012%
+Khmer                                6  0.012%
+Gujarati                             6  0.012%
+Macedonian                           6  0.012%
+Laotian                              5  0.010%
+Irish                                5  0.010%
+Ainu                                 5  0.010%
+Quechua                              4  0.008%
+Welsh                                4  0.008%
+Tibet                                3  0.006%
+Aymara                               3  0.006%
+Zulu                                 2  0.004%
+Syriac                               2  0.004%
+Sanskrit                             2  0.004%
+Cherokee                             1  0.002%
+Esperanto                            1  0.002%
+Frisian                              1  0.002%
+Kannada                              1  0.002%
+Icelandic                            1  0.002%
+Faroese                              1  0.002%
 
 Languages of Interests
+==========================
 
-English (US)                       28619
-Japanese                           11771
-Korean                              9996
-English (UK)                        6457
-French (France)                     4642
-German                              3781
-Spanish (Spain)                     3076
-Italian                             1871
-Russian                             1833
-Simplified Chinese (China)          1631
-Arabic                               857
-Turkish                              696
-Norwegian (bokmal)                   639
-Spanish (Mexico)                     615
-Portuguese (Brazil)                  520
-Traditional Chinese (Hong Kong)      488
-Norwegian (nynorsk)                  397
-Vietnamese                           375
-French (Canada)                      367
-Traditional Chinese (Taiwan)         366
-Polish                               337
-Thai                                 329
-Swedish                              305
-Dutch                                296
-Portuguese (Portugal)                254
-Latin                                249
-Tagalog                              211
-Greek                                182
-Czech                                173
-Hebrew                               164 
-Zulu                                  12
-Latvian                               11
-Aymara                                11
-Uzbek                                 11
-Haitian Creole                        11
-Azeri                                  9
-Tibet                                  9
-Macedonian                             9
-Slovenian                              8
-Basque                                 8
-Laotian                                7
-Faroese                                7
-Frisian                                7
-Ainu                                   6
-Guarani                                6
-Somali                                 6
-Syriac                                 4
-Northern Sami                          4
-Tajik                                  4
-Pashto                                 4
-Slavic                                 4
-Xhosa                                  3
-Telugu                                 3
-Gujarati                               3
-Tongan                                 3
-Limburgish                             2
-Romansh                                2
-Malagasy                               2
-Maltese                                2
-Marathi                                1
-dtype: int64
+English (US)                     28619 58.431%
+Japanese                         11771 24.033%
+Korean                            9996 20.409%
+English (UK)                      6457 13.183%
+French (France)                   4642  9.478%
+German                            3781  7.720%
+Spanish (Spain)                   3076  6.280%
+Italian                           1871  3.820%
+Russian                           1833  3.742%
+Simplified Chinese (China)        1631  3.330%
+Arabic                             857  1.750%
+Turkish                            696  1.421%
+Norwegian (bokmal)                 639  1.305%
+Spanish (Mexico)                   615  1.256%
+Portuguese (Brazil)                520  1.062%
+Traditional Chinese (Hong Kong)    488  0.996%
+Norwegian (nynorsk)                397  0.811%
+Vietnamese                         375  0.766%
+French (Canada)                    367  0.749%
+Traditional Chinese (Taiwan)       366  0.747%
+Polish                             337  0.688%
+Thai                               329  0.672%
+Swedish                            305  0.623%
+Dutch                              296  0.604%
+Portuguese (Portugal)              254  0.519%
+Latin                              249  0.508%
+Tagalog                            211  0.431%
+Greek                              182  0.372%
+Czech                              173  0.353%
+Hebrew                             164  0.335%
+Hindi                              160  0.327%
+Finnish                            155  0.316%
+Ukrainian                          151  0.308%
+Spanish (Colombia)                 151  0.308%
+Danish                             132  0.270%
+Irish                              110  0.225%
+Spanish (Chile)                    105  0.214%
+Indonesian                          95  0.194%
+Icelandic                           85  0.174%
+Catalan                             82  0.167%
+Malay                               76  0.155%
+Spanish (Venezuela)                 70  0.143%
+Esperanto                           68  0.139%
+Hungarian                           65  0.133%
+Belarusian                          64  0.131%
+Kazakh                              63  0.129%
+Armenian                            62  0.127%
+Romanian                            61  0.125%
+Persian                             56  0.114%
+Croatian                            53  0.108%
+Dutch (Belgium)                     49  0.100%
+Hawaiian                            48  0.098%
+Serbian                             44  0.090%
+Bulgarian                           35  0.071%
+Lithuanian                          33  0.067%
+Georgian                            31  0.063%
+Estonian                            29  0.059%
+Afrikaans                           28  0.057%
+Urdu                                28  0.057%
+Welsh                               27  0.055%
+Mongolian                           26  0.053%
+Slovak                              25  0.051%
+Albanian                            25  0.051%
+Azerbaijani                         24  0.049%
+Quechua                             23  0.047%
+Klingon                             23  0.047%
+Sanskrit                            21  0.043%
+Kiswahili                           21  0.043%
+Tatar                               20  0.041%
+Bosnian                             19  0.039%
+Cherokee                            17  0.035%
+Yiddish                             17  0.035%
+Kurdish                             17  0.035%
+Kannada                             17  0.035%
+Javanese                            16  0.033%
+Bengali                             16  0.033%
+Punjabi                             15  0.031%
+Galician                            14  0.029%
+Nepali                              13  0.027%
+Khmer                               13  0.027%
+Zulu                                12  0.025%
+Tamil                               12  0.025%
+Malayalam                           12  0.025%
+Latvian                             11  0.022%
+Haitian Creole                      11  0.022%
+Uzbek                               11  0.022%
+Aymara                              11  0.022%
+Tibet                                9  0.018%
+Azeri                                9  0.018%
+Macedonian                           9  0.018%
+Basque                               8  0.016%
+Slovenian                            8  0.016%
+Faroese                              7  0.014%
+Frisian                              7  0.014%
+Laotian                              7  0.014%
+Somali                               6  0.012%
+Guarani                              6  0.012%
+Ainu                                 6  0.012%
+Syriac                               4  0.008%
+Slavic                               4  0.008%
+Pashto                               4  0.008%
+Tajik                                4  0.008%
+Northern Sami                        4  0.008%
+Telugu                               3  0.006%
+Tongan                               3  0.006%
+Xhosa                                3  0.006%
+Gujarati                             3  0.006%
+Malagasy                             2  0.004%
+Maltese                              2  0.004%
+Romansh                              2  0.004%
+Limburgish                           2  0.004%
+Marathi                              1  0.002%

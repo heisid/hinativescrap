@@ -35,21 +35,21 @@ I count the data, with `counting.py` and the results is listed in `rank_results.
 
 
 ### Native languages
-| Native Language | Number of Users |
+| Native Language | Number of Users | Percentage |
 | ----------------| --------------- |
-| English (US)                      | 8483 |
-| Russian                           | 6596 |
-| Arabic                            | 6318 |
-| Polish                            | 3764 |
-| Portuguese (Brazil)               | 3509 |
+| English (US)                      | 8483 | 17.320% |
+| Russian                           | 6596 | 13.467% |
+| Arabic                            | 6318 | 12.899% |
+| Polish                            | 3764 |  7.685% |
+| Portuguese (Brazil)               | 3509 |  7.164% |
 
 
 ### Languages of Interest
-| Language of Interest | Number of Users |
+| Language of Interest | Number of Users | Percentage |
 | -------------------- | --------------- |
-| English (US)                      | 28619 |
-| Japanese                          | 11771 |
-| Korean                            |  9996 |
-| English (UK)                      |  6457 |
-| French (France)                   |  4642 |
+| English (US)                      | 28619 | 58.431% |
+| Japanese                          | 11771 | 24.033% |
+| Korean                            |  9996 | 20.409% |
+| English (UK)                      |  6457 | 13.183% |
+| French (France)                   |  4642 |  9.478% |
 
