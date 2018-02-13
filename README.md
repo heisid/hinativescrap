@@ -36,7 +36,7 @@ I count the data, with `counting.py` and the results is listed in `rank_results.
 
 ### Native languages
 | Native Language | Number of Users | Percentage |
-| ----------------| --------------- |
+| ----------------| --------------- | ---------- |
 | English (US)                      | 8483 | 17.320% |
 | Russian                           | 6596 | 13.467% |
 | Arabic                            | 6318 | 12.899% |
@@ -46,7 +46,7 @@ I count the data, with `counting.py` and the results is listed in `rank_results.
 
 ### Languages of Interest
 | Language of Interest | Number of Users | Percentage |
-| -------------------- | --------------- |
+| -------------------- | --------------- | ---------- |
 | English (US)                      | 28619 | 58.431% |
 | Japanese                          | 11771 | 24.033% |
 | Korean                            |  9996 | 20.409% |
