@@ -1,5 +1,5 @@
 # hinativescrap
-Scraping Hinative Users Data
+Scraping [HiNative](https://hinative.com) Users Data
 
 ## Usage
 I provide my results in file `results_clean.csv`, containing:
