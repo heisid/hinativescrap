@@ -58,6 +58,7 @@ I count the data, with `counting.py` and the results is listed in `rank_results.
 
 ### Languages of Interest
 | Language of Interest | Number of Users |
+| -------------------- | --------------- |
 | English (US)                      | 28619 |
 | Japanese                          | 11771 |
 | Korean                            |  9996 |
