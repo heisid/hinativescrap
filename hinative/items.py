@@ -11,8 +11,6 @@ import scrapy
 class HinativeItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    # Yes I'm using weird a,b,c in field names
-    # Somehow scrapy orders the fields in alphabetical order in result
-    a_username = scrapy.Field()
-    b_natives = scrapy.Field()
-    c_learning = scrapy.Field()
+    username = scrapy.Field()
+    natives = scrapy.Field()
+    learning = scrapy.Field()

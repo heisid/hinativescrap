@@ -21,13 +21,13 @@ class BasicSpider(scrapy.Spider):
             '//h1[@class="owner_name"]/span/text()').extract()[0].strip()
         """
         l = ItemLoader(item=HinativeItem(), response=response)
-        l.add_xpath('a_username', '//*[@class="owner_name"]/span/text()',
+        l.add_xpath('username', '//*[@class="owner_name"]/span/text()',
                 MapCompose(str.strip))
 
-        l.add_xpath('b_natives','//*[@class="introduction_details language_native_table"]/p[@class="lang_parts"]/text()',
+        l.add_xpath('natives','//*[@class="introduction_details language_native_table"]/p[@class="lang_parts"]/text()',
                 MapCompose(str.strip, self.compact))
 
-        l.add_xpath('c_learning','//*[@class="introduction_details language_study_table"]/a/span/text()',
+        l.add_xpath('learning','//*[@class="introduction_details language_study_table"]/a/span/text()',
                 MapCompose(str.strip))
 
         return l.load_item()

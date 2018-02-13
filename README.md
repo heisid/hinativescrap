@@ -6,7 +6,8 @@ I provide my results in file `results_clean.csv`, containing:
 - Username (48980 users)
 - Native languages
 - Languages of interest
-There's also `results.csv` - 50000 entries, including non-existent users, maybe unconfirmed registrations or deleted accounts.
+
+There's also `results.csv` - 50000 entries, including users no longer exist, maybe unconfirmed registrations or deleted accounts.
 It took about 2 hours to collect the data.
  
 Just in case you want to try scraping by yourself
@@ -26,5 +27,5 @@ Warning: Don't be greedy, once I crawled 100,000 pages and got my IP blacklisted
 ```shell
 scrapy crawl basic -o filename.csv
 ```
-6. To clean the data from empty row, run `cleaning.py`
+6. To clean the data from empty rows, run `cleaning.py`. To reorder the columns run `reordering.py`
 7. You can modify `items.py` and `basic.py` to get more informations like Countries they know well, or anything.

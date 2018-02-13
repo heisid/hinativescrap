@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'hinative.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'hinative (+http://www.yourdomain.com)'
+USER_AGENT = 'hinative_crawler (weird_alien@protonmail.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
