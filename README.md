@@ -30,7 +30,7 @@ scrapy crawl basic -o filename.csv
 6. To clean the data from empty rows, run `cleaning.py`. To reorder the columns run `reordering.py`
 7. You can modify `items.py` and `basic.py` to get more informations like Countries they know well, or anything.
 8. To make your life easier, install pandas to analyze further.
-````shell
+```shell
 pip install pandas
 ```
 
