@@ -19,7 +19,7 @@ source env/bin/activate
 ```
 3. Install Scrapy
 ```shell
-pip install Scrapy
+pip install scrapy
 ```
 4. Play with range of users id (I don't know the correct term for this, I refer to unique integer numbers in users profile URL) in `hinative/spiders/basic.py`. Look at variable `user_range`.
 Warning: Don't be greedy, once I crawled 100,000 pages and got my IP blacklisted.
@@ -29,6 +29,10 @@ scrapy crawl basic -o filename.csv
 ```
 6. To clean the data from empty rows, run `cleaning.py`. To reorder the columns run `reordering.py`
 7. You can modify `items.py` and `basic.py` to get more informations like Countries they know well, or anything.
+8. To make your life easier, install pandas to analyze further.
+````shell
+pip install pandas
+```
 
 ## Counting
 I count the data, with `counting.py` and the results is listed in `rank_results.txt`. (Well, I was wrong when I said that there were more Korean natives than Arabic, a mistake). From 48979 samples, I got:
